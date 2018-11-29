@@ -28,3 +28,12 @@ This project adheres to the Contributor Covenant code of conduct. By participati
 
 More info at:
 http://www.lynckia.com/licode
+
+### c++: internal compiler error: Killed (program cc1plus)  fixed solution
+https://bitcointalk.org/index.php?topic=304389.0
+
+dd if=/dev/zero of=/var/swap.img bs=1024k count=1000
+
+mkswap /var/swap.img
+
+swapon /var/swap.img
